@@ -14,7 +14,7 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBU23uuC5gK4VtUxxsoUqHRmYQoFunRa0s&callback=initMap"></script>
+<script async defer src=""></script>
 
 <script type="text/javascript">
 $(document).ready(function () {
